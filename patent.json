@@ -1,0 +1,11 @@
+{
+  "nodes": [
+    { "id": "US11320538B2", "label": "US11320538B2", "company": "Opsys" },
+    { "id": "US10514444B2", "label": "US10514444B2", "company": "Opsys" },
+    { "id": "CN108961294B", "label": "CN108961294B", "company": "北醒" },
+    { "id": "US11378660B2", "label": "US11378660B2", "company": "Ibeo" },
+    { "id": "US11243297B2", "label": "US11243297B2", "company": "大陆" },
+    { "id": "CN109725320B", "label": "CN109725320B", "company": "禾赛" }
+  ],
+  "edges": []
+}
