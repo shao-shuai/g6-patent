@@ -7,5 +7,36 @@
     { "id": "US11243297B2", "label": "US11243297B2", "company": "大陆" },
     { "id": "CN109725320B", "label": "CN109725320B", "company": "禾赛" }
   ],
-  "edges": []
+  "edges": [
+    {
+      "source": "US11320538B2",
+      "target": "US10514444B2",
+      "label": "e0-1",
+      "weight": 1
+    },
+    {
+      "source": "US11320538B2",
+      "target": "CN108961294B",
+      "label": "e0-2",
+      "weight": 2
+    },
+    {
+      "source": "US11320538B2",
+      "target": "US11378660B2",
+      "label": "e0-3",
+      "weight": 3
+    },
+    {
+      "source": "US11320538B2",
+      "target": "US11243297B2",
+      "label": "e0-4",
+      "weight": 1.4
+    },
+    {
+      "source": "US11320538B2",
+      "target": "CN109725320B",
+      "label": "e0-5",
+      "weight": 2
+    }
+  ]
 }
